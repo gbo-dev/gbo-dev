@@ -36,6 +36,7 @@ I'm *gbo-dev*, a software developer and computer science engineer with an intere
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/gbo-dev/)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/gbo-dev/)
 
+and much more :)
 
 
 
