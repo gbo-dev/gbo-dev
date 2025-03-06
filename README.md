@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm *gbo-dev*, a software developer and computer science engineer with an interest in Linux, coding, CLI tools, documentation, microcomputers and configurations. 
+I'm *gbo*, a software developer and recent computer science graduate of Chalmers University of Technology with an interest in most things related to computers. Examples include: Linux, coding, CLI tools, documentation, microcomputers and configurations. 
+
+I enjoy all kinds of systems, be that embedded, real-time, distributed, high-performance, fault-tolerant, operating, or just systems in general ;)
+
+Feel free to reach out!
 
 # Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gbo-dev/)
