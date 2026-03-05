@@ -20,7 +20,7 @@ I'm *gbo*, a software developer and recent computer science graduate of Chalmers
 I enjoy all kinds of systems, be that embedded, real-time, distributed, high-performance, fault-tolerant, operating, or just systems in general ;)
 
 Feel free to reach out!
-
+<!--
 # Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gbo-dev/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/gbo-dev/)
@@ -41,6 +41,7 @@ Feel free to reach out!
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/gbo-dev/)
 
 and much more :)
+-->
 
 
 
