@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm *gbo*, a software developer and recent computer science graduate of Chalmers University of Technology with an interest in most things related to computers. Examples include: Linux, coding, CLI tools, documentation, microcomputers and configurations. 
+I'm a developer and computer science graduate of Chalmers University of Technology with an interest in most things related to computers. Examples include: Linux, coding, CLI tools, documentation, microcomputers and configurations. 
 
-I enjoy all kinds of systems, be that embedded, real-time, distributed, high-performance, fault-tolerant, operating, or just systems in general ;)
+I enjoy all kinds of systems, be that embedded, real-time, distributed, high-performance, fault-tolerant, operating, or just systems in general!
 
 Feel free to reach out!
 <!--
